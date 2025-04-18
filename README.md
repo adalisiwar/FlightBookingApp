@@ -26,10 +26,10 @@ An elegant Android Studio application for booking airplane tickets with a sleek 
 
 ## 🛠️ Tech Stack
 
-- **Language : ** Kotlin  
-- **IDE : ** Android Studio  
-- **UI : ** XML Layouts, Material Design  
-- **Backend : ** *Firebase* (for realtime database and cloud messaging)
+- **Language :** Kotlin  
+- **IDE :** Android Studio  
+- **UI :** XML Layouts, Material Design  
+- **Backend :** *Firebase* (for realtime database and cloud messaging)
 
 ---
 
